@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Steam lines -->
+  <path d="M70 75 Q65 60 70 45 Q75 30 70 15" 
+        fill="none" 
+        stroke="#F5841F" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  <path d="M100 75 Q95 60 100 45 Q105 30 100 15" 
+        fill="none" 
+        stroke="#F5841F" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  <path d="M130 75 Q125 60 130 45 Q135 30 130 15" 
+        fill="none" 
+        stroke="#F5841F" 
+        stroke-width="8" 
+        stroke-linecap="round"/>
+  
+  <!-- Bowl shape -->
+  <path d="M25 90 
+           L25 100 
+           Q25 180 100 180 
+           Q175 180 175 100 
+           L175 90 
+           Z" 
+        fill="#F5841F"/>
+  
+  <!-- Checkmark -->
+  <path d="M55 130 L85 160 L155 80" 
+        fill="none" 
+        stroke="white" 
+        stroke-width="14" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+</svg>
